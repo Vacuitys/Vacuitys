@@ -3,9 +3,9 @@
 
 # Personal Links
 - Profile - [Ryonfill](https://github.com/Ryonfill)
-- Company/Organization - [DiscordAddons](https://github.com/DiscordAddons)
+- Company/Organization - [Ryon's Snippets](https://github.com/DiscordAddons)
 - Twitter - [@Ryonfill](https://twitter.com/Ryonfill)
-- Discord - `ryonfills#3571`
+- Discord - `𝖗𝖞𝖔𝖓𝖋𝖎𝖑𝖑 ✂#3571`
 
 # Interests
 - Anime
