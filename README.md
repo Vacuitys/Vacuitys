@@ -3,16 +3,16 @@ i'm ryon, 13, css and lua programmer, anime weeb, and a professional procrastina
 you can check out my **personal links** below
 
 # personal links
-- Profile - [Vampfully](https://github.com/Vampfully)
+- Profile - [Vampfully](https://github.com/lightfill)
 - Company/Organization - [Vamppets](https://github.com/Vamppets)
-- Twitter - [Failed to load Twitter...](https://twitter.com/error/error/error)
-- Discord - `𝖁𝖆𝖒𝖕𝖋𝖚𝖑𝖑𝖞 ✂#3571`
+- Twitter - [lightfill](https://twitter.com/Ryonfill)
+- Discord - `lightfill#3571`
 
 # interests
 - watching anime
 - programming
 
-# specialities
+# languages
 - Lua
 - CSS
 
