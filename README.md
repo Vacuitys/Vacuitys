@@ -1,4 +1,4 @@
-# if you are seeing this then I assume that you want to get to know me??? alright then
+# I caught you in 4k LOL anyways
 i'm ryon, 13, css and lua programmer, anime weeb, and a professional procrastinator
 you can check out my **personal links** below
 
