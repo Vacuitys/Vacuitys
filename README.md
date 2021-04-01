@@ -12,7 +12,7 @@ Just a 13 year old programmer who enjoys coding stupid [Discord](https://github.
 
 **Repos**
 - Most of my repos are on my [primary organization](https:/github.com/BDFragments) where I upload snippets.
-- Others will be on my [secondary organization](https://github.com/BDStyles) where I upload themes, don't count on me to make a theme everyday as these take time and effort.
+- Others might be on my [secondary organization](https://github.com/BDStyles) where I upload themes, don't count on me to make a theme everyday as these take time and effort.
 
 <!--
 Here are some ideas to get you started:
