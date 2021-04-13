@@ -7,7 +7,6 @@
    - [voidfire](https://github.com/BDStyles/voidfire)
    - [🌠 Stellarburst](https://github.com/BDStyles/stellarburst)
    - [Imperials](https://github.com/BDStyles/imperials)
-   - [Custom User Activity Backgrounds](https://github.com/BDStyles/custom-user-activity-backgrounds)
 
 ![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
 - "AlexFlipnote"
