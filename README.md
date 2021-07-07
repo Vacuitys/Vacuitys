@@ -14,12 +14,7 @@
   - A deep blue cyan theme coded with compatibility for BetterDiscord. 
 
 **My scripts**
-- [KAT Adjustable Ammo Capacity](https://github.com/ryswrldd/kat-adjustable-ammo-capacity)
-  - A script that allows you to change the revolver's ammo capacity.
-- [No Dash Cooldown (Anime Dimensions)](https://github.com/ryswrldd/no-dash-cooldown)
-  - A script that removes the cooldown on the dash ability in Anime Dimensions.
-- [Autofarm Scripts](https://github.com/ryswrldd/autofarm-scripts)
-  - A repository full of autofarm/autotap scripts for specific Roblox games.
+- All of my released scripts will be posted [here](https://github.com/ryswrldd/scripts)
 
 **My stats**
 
